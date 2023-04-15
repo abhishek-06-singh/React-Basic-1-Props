@@ -33,3 +33,4 @@ The app uses props to pass data to the Cards and Navbar components. Here are the
 - src: A string that specifies the URL of the image to display in the navbar.
 
 ## Demo
+![screenshot (8)](https://user-images.githubusercontent.com/115978151/232249360-84b18365-98b5-4153-a063-17eb6bbc7150.png)
